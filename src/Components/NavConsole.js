@@ -1,7 +1,8 @@
+import '../styles/NavConsole.css'
 const NavConsole = ()=> {
     return (
-        <div>
-            
+        <div className="console">
+
         </div>
     )
 }

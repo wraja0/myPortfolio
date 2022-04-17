@@ -1,6 +1,7 @@
+import '../styles/AppBody.css'
 const AppBody = ()=> {
     return (
-        <div>
+        <div className="app-body">
 
         </div>
     )
