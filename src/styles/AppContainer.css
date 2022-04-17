@@ -1,6 +1,10 @@
 .app-container {
     width: 100vw;
     height: 100vh;
-    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
     background: #666666;
+    border-top: solid 0.25em;
+    border-bottom: solid 0.25em;
+
 }
