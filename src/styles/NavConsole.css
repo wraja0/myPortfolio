@@ -1,7 +1,20 @@
 .console {
     position: absolute;
-    background: #fafafa;
-    width: 15vw;
-    height: 100vh;
-    margin-right: auto;
+    background: #3c8cc9c4;
+    width: 16vw;
+    height: 66vh;
+    margin-left: 0.5vw;
+    border-radius: 2%;
+    
+}
+.name-header {
+    margin-top: 4vh;
+    text-align: center;
+}
+.profile-thumbnail {
+    max-width: 12vw;
+    margin-left: 1.73vw;
+    border-radius: 50%;
+    border: solid;
+    border-width: 2px;
 }

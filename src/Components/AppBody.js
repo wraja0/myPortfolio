@@ -14,7 +14,7 @@ const AppBody = ()=> {
                 'Developer',2100,
                 'Thinker',2100,
                 'Designer', 2100,
-                'Creator'
+                'Creator', 2100
               ]}
               />
             </h1>
