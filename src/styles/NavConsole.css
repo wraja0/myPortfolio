@@ -1,5 +1,7 @@
 .console {
+    position: absolute;
     background: #fafafa;
     width: 15vw;
     height: 100vh;
+    margin-right: auto;
 }
