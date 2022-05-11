@@ -6,10 +6,11 @@ ul {
 }
 .console {
     position: absolute;
-    background: #3c8cc9c4;
+    background: #34ab9fda;
     width: 16vw;
     height: 66vh;
-    margin-left: 0.5vw;
+    margin-left: 0.74vw;
+    margin-top: 1vh;
     border-radius: 3%;
     
 }
