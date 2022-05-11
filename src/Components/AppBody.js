@@ -18,7 +18,7 @@ const AppBody = ()=> {
               ]}
               />
             </h1>
-            <button> Contact Me </button>
+            <button className='contact-btn'> Contact Me </button>
         </div>
     )
 }
