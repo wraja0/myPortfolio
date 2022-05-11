@@ -14,6 +14,7 @@
 .profile-thumbnail {
     max-width: 12vw;
     margin-left: 1.73vw;
+    margin-top: -0.8vh;
     border-radius: 50%;
     border: solid;
     border-width: 2px;
