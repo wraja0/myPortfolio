@@ -5,9 +5,9 @@ const NavConsole = ()=> {
             <h3 className='name-header'>Wajeah Raja</h3>
             <img className='profile-thumbnail' src='https://i.imgur.com/jyPZwXI.png'  />
             <ul>
-                <li><a></a></li>
-                <li><a></a></li>
-                <li><a></a></li>
+                <li><a href='#'>About me</a></li>
+                <li><a href='#'>My work</a></li>
+                <li><a href='#'>Contact me</a></li>
             </ul>
         </div>
     )
