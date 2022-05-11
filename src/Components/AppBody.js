@@ -18,6 +18,13 @@ const AppBody = ()=> {
               ]}
               />
             </h1>
+            <div className='pre-content'>
+              <div className='pre-projects'>
+              </div>
+              <div className='pre-exp'>
+              </div>
+            </div>
+            <div className='skill-thumbnails'></div>
             <button className='contact-btn'> Contact Me </button>
         </div>
     )
