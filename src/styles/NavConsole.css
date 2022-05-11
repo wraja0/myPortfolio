@@ -1,3 +1,9 @@
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
 .console {
     position: absolute;
     background: #3c8cc9c4;
@@ -21,10 +27,18 @@
 }
 .media-link-container {
     display: flex;
+    flex-flow: row wrap;
+    justify-content:  space-evenly;
+}
+.media-link{
+    display: flex;
     flex-flow: column wrap;
     align-content: center;
 }
-.github-thumbnail {
+.meida-thumbnail {
     max-width: 4vw;
-    margin-top: 3vh;
 }
+.media-thumbnail {
+    max-width: 4vw;
+}
+

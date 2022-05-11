@@ -10,12 +10,12 @@ const NavConsole = ()=> {
                 <li><a href='#'>Contact me</a></li>
             </ul>
             <div className='media-link-container'>
-            <a href='https://github.com/wraja0'>
-                <img className='github-thumbnail' src='https://i.imgur.com/bDxI74T.png'></img>
-            </a>
-            <p>
-                    Github
-                </p>
+                <a className='media-link' href='https://github.com/wraja0'>
+                    <img className='media-thumbnail' src='https://i.imgur.com/bDxI74T.png'></img> 
+                </a>
+                <a className='media-link' href='https://www.linkedin.com/in/wajeahraja/'>
+                    <img className='media-thumbnail' src='https://i.imgur.com/ZbeuUxU.png'></img>
+                </a>
             </div>
         </div>
     )

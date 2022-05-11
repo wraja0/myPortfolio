@@ -11,10 +11,10 @@ const AppBody = ()=> {
               loop={Infinity}
               wrapper="b"
               steps={[
-                'Developer',2100,
-                'Solutionist',2100,
-                'Designer', 2100,
-                'Creator', 2100
+                'developer',2100,
+                'solutionist',2100,
+                'designer', 2100,
+                'creator', 2100
               ]}
               />
             </h1>
