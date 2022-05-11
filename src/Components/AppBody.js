@@ -24,7 +24,15 @@ const AppBody = ()=> {
               <div className='pre-exp'>
               </div>
             </div>
-            <div className='skill-thumbnails'></div>
+            <div className='skill-thumbnails'>
+              <div className='react-thumbnail'>
+              </div>
+              <div className='node-thumbnail'>
+                </div>
+                <div className='postgreSQL-thumbnail'>
+                  
+                </div>
+            </div>
             <button className='contact-btn'> Contact Me </button>
         </div>
     )
