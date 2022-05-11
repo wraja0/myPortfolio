@@ -18,6 +18,7 @@ const AppBody = ()=> {
               ]}
               />
             </h1>
+            <button> Contact Me </button>
         </div>
     )
 }
