@@ -2,7 +2,7 @@ a {
     text-decoration: none;
 }
 ul {
-    list-style: none;
+    list-style-type: none;
 }
 .console {
     position: absolute;
@@ -25,6 +25,10 @@ ul {
     border-radius: 50%;
     border: solid;
     border-width: 2px;
+}
+.sections-list {
+    margin-left: -3vw;
+    text-align: center;
 }
 .media-link-container {
     display: flex;

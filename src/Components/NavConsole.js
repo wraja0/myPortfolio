@@ -4,7 +4,7 @@ const NavConsole = ()=> {
         <div className="console">
             <h3 className='name-header'>Wajeah Raja</h3>
             <img className='profile-thumbnail' src='https://i.imgur.com/jyPZwXI.png'  />
-            <ul>
+            <ul className='sections-list'>
                 <li><a href='#'>About me</a></li>
                 <li><a href='#'>My work</a></li>
                 <li><a href='#'>Contact me</a></li>
