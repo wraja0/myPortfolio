@@ -4,7 +4,7 @@
     width: 16vw;
     height: 66vh;
     margin-left: 0.5vw;
-    border-radius: 2%;
+    border-radius: 3%;
     
 }
 .name-header {
@@ -18,4 +18,13 @@
     border-radius: 50%;
     border: solid;
     border-width: 2px;
+}
+.media-link-container {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+}
+.github-thumbnail {
+    max-width: 4vw;
+    margin-top: 3vh;
 }

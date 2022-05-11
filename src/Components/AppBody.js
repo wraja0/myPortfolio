@@ -12,7 +12,7 @@ const AppBody = ()=> {
               wrapper="b"
               steps={[
                 'Developer',2100,
-                'Thinker',2100,
+                'Solutionist',2100,
                 'Designer', 2100,
                 'Creator', 2100
               ]}
