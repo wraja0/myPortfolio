@@ -6,7 +6,9 @@ const NavConsole = ()=> {
             <img className='profile-thumbnail' src='https://i.imgur.com/jyPZwXI.png'  />
             <ul className='sections-list'>
                 <li><a href='#'>About me</a></li>
+                <br></br>
                 <li><a href='#'>My work</a></li>
+                <br></br>
                 <li><a href='#'>Contact me</a></li>
             </ul>
             <div className='media-link-container'>
