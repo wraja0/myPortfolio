@@ -24,8 +24,8 @@
     color: #eacaca;
 }
 button {
-    margin-top: 55.5vh;
-    margin-left: 55.5vw;
+    margin-top: 56.6vh;
+    margin-left: 56.5vw;
 }
 * {
     box-sizing: border-box;
@@ -82,8 +82,8 @@ button {
     right: 0.0625rem;
     width: 0.625rem;
     height: 0.625rem;
-    border-top: 0.125rem solid #fff;
-    border-right: 0.125rem solid #fff;
+    border-top: 0.125rem solid #0af5e5;
+    border-right: 0.125rem solid #0af5e5;
     transform: rotate(45deg);
   }
   button.learn-more .button-text {
@@ -106,11 +106,11 @@ button {
     width: 100%;
   }
   button:hover .circle .icon.arrow {
-    background: #fff;
+    background: #0af5e5;
     transform: translate(1rem, 0);
   }
   button:hover .button-text {
-    color: #00B3A7;
+    color: #0af5e5;
   }
   
 @supports (display: grid) {
