@@ -30,7 +30,6 @@ const AppBody = ()=> {
               <div className='node-thumbnail'>
                 </div>
                 <div className='postgreSQL-thumbnail'>
-                  
                 </div>
             </div>
             <div id="container">
