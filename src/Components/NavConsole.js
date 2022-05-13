@@ -19,6 +19,9 @@ const NavConsole = ()=> {
                     <img className='media-thumbnail' src='https://i.imgur.com/ZbeuUxU.png'></img>
                 </a>
             </div>
+            <h1>
+               <a href='#'>My Blog</a>
+            </h1>
         </div>
     )
 }
