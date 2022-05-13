@@ -39,7 +39,7 @@ const AppBody = ()=> {
                 </span>
                 <span class="button-text">Contact Me</span>
               </button>
-            </div>
+            </div> 
         </div>
     )
 }
