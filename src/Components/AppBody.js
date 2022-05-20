@@ -6,8 +6,8 @@ const AppBody = ()=> {
             <img className="home-bg" src="https://i.imgur.com/ISzYWxr.jpg" />
             <h1 className='home-title'>I'm a</h1>
             <div className='container'>
-              <div className='typed-out'>
-                <h3>Web Developer</h3>
+              <div className='home-title typed-out'>
+                Web Developer
               </div>
             </div>
             <div className='pre-content'>

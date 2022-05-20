@@ -155,9 +155,10 @@ body {
   }
   .typed-out{
     overflow: hidden;
-    border-right: .15em solid #0af5e5;
+    border-right: .05em solid #0af5e5;
     white-space: nowrap;
-    font-size: 1.6rem;
+    font-size: 2rem;
+    font-weight: 600;
     width: 0;
     animation: 
       typing 1s steps(20,end) forwards,
