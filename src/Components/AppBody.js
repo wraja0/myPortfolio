@@ -5,19 +5,12 @@ const AppBody = ()=> {
     return (
         <div className="app-body">
             <img className="home-bg" src="https://i.imgur.com/ISzYWxr.jpg" />
-            <h1 className='home-title'>
-              I'm a {' '}
-              <Typical 
-              loop={Infinity}
-              wrapper="b"
-              steps={[
-                'developer',2100,
-                'solutionist',2100,
-                'designer', 2100,
-                'creator', 2100
-              ]}
-              />
-            </h1>
+            <h1 className='home-title'>I'm a</h1>
+            <div className='container'>
+              <div className='typed-out'>
+                
+              </div>
+            </div>
             <div className='pre-content'>
               <div className='pre-projects'>
               </div>
