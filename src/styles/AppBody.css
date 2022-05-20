@@ -7,6 +7,8 @@
     scrollbar-width: none;  
     border: solid;
     margin-left: 17.5vw;
+    background: url(https://i.imgur.com/ISzYWxr.jpg);
+    background-size: cover;
 }
 .app-body::-webkit-scrollbar {
     display: none;
