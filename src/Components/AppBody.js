@@ -1,6 +1,5 @@
 import '../styles/AppBody.css'
 import { useState, useEffect, useRef } from 'react'
-import Typical from 'react-typical'
 const AppBody = ()=> {
     return (
         <div className="app-body">
@@ -8,7 +7,7 @@ const AppBody = ()=> {
             <h1 className='home-title'>I'm a</h1>
             <div className='container'>
               <div className='typed-out'>
-                
+
               </div>
             </div>
             <div className='pre-content'>
