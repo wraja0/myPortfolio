@@ -5,7 +5,19 @@ const AppBody = ()=> {
         <div className="app-body">
             <img className="home-bg" src="https://i.imgur.com/ISzYWxr.jpg" />
             <h1 className='home-title'>I'm a</h1>
-            <div className='container'>
+            <div className='container'> 
+              <div className='home-title typed-out'>
+                Web Developer
+              </div>
+            </div>
+            <br />
+            <div className='container'> 
+              <div className='home-title typed-out'>
+                Web Developer
+              </div>
+            </div>
+            <br />
+            <div className='container'> 
               <div className='home-title typed-out'>
                 Web Developer
               </div>
