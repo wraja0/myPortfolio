@@ -21,7 +21,11 @@
 .home-title {
     margin-top: -94vh;
     margin-left: 3vw;
-    
+    white-space: nowrap;
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: 'Libre Baskerville', serif;
+    opacity: 1;
 }
 
 button {
@@ -163,6 +167,7 @@ body {
     animation: 
       typing 1s steps(20,end) forwards,
       blink .8s infinite;
+      
 }
 @keyframes typing {
   from { width: 0 }
