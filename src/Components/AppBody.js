@@ -7,7 +7,7 @@ const AppBody = ()=> {
             <h1 className='home-title'>I'm a</h1>
             <div className='container'>
               <div className='typed-out'>
-
+                <h3>Web Developer</h3>
               </div>
             </div>
             <div className='pre-content'>
@@ -25,11 +25,11 @@ const AppBody = ()=> {
                 </div>
             </div>
             <div id="container">
-              <button class="learn-more">
-                <span class="circle" aria-hidden="true">
-                  <span class="icon arrow"></span>
+              <button className="learn-more">
+                <span className="circle" aria-hidden="true">
+                  <span className="icon arrow"></span>
                 </span>
-                <span class="button-text">Contact Me</span>
+                <span className="button-text">Contact Me</span>
               </button>
             </div> 
         </div>
