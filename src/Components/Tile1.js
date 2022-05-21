@@ -2,8 +2,8 @@ import '../styles/Tile1.css'
 import { useState, useEffect, useRef } from 'react'
 const Tile1 = ()=> {
     return (
-        <div>
-            <h1 className='home-title'>I'm a</h1>
+        <div className='title-container'>
+            <h1 className='home-title'>Hi I'm Wajeah I'm a </h1>
             <div className='container'> 
               <div className='home-title typed-out typer1'>
                 Full Stack Web Developer
@@ -12,7 +12,7 @@ const Tile1 = ()=> {
             <br />
             <div className='container'> 
               <div className='home-title typed-out typer2'>
-                Web Developer
+                Data Solutions Engineer
               </div>
             </div>
             <br />

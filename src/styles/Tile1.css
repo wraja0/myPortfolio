@@ -1,5 +1,8 @@
+.title-container {
+    width: 20vw;
+    text-align: center;
+}
 .home-title {
-    
     margin-left: 3vw;
     white-space: nowrap;
     font-size: 2rem;
@@ -8,15 +11,14 @@
     opacity: 1;
 }
 h1.home-title {
-  margin-left: 12.2
-  vw;
+  margin-left: 5.7vw;
 }
 
 button {
   position: relative;
   display: inline-block;
-  margin-top: 69.9vh;
-  margin-left: 58.5vw;
+  margin-top: 53.9vh;
+  margin-left: 61.5vw;
   cursor: pointer;
   outline: none;
   border: 0;
@@ -154,23 +156,26 @@ body {
     typing 1.3s steps(30,end) forwards,
     blink .8s infinite;
     margin-bottom: 3vh;
+    margin-left: 1vw;
 }
 .typer2 {
     animation: 
-        typing 1s steps(20,end) forwards,
+        typing 1s steps(35,end) forwards,
         blink .8s infinite;
-    animation-delay: 1s
-
+    animation-delay: 1s;
+    margin-bottom: 3vh;
+    margin-left: 1.8vw;
 }
 .typer3 {
     animation: 
-        typing 1s steps(20,end) forwards,
+        typing 1s steps(35,end) forwards,
         blink .8s infinite;
-    animation-delay: 2s
+    animation-delay: 2s;
+    margin-left: 5.2vw;
 }
 @keyframes typing {
   from { width: 0 }
-  to { width: 93% }
+  to { width: 100% }
 }
 @keyframes blink {
   from { border-color: transparent }
