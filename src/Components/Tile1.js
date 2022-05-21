@@ -1,4 +1,4 @@
-import '../styles/AppBody.css'
+import '../styles/Tile1.css'
 import { useState, useEffect, useRef } from 'react'
 const Tile1 = ()=> {
     return (
