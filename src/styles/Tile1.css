@@ -151,7 +151,9 @@ body {
 }
 .typer1 {
     animation: 
-    typing 1s steps(20,end) forwards;
+    typing 1.3s steps(30,end) forwards,
+    blink .8s infinite;
+
 }
 .typer2 {
     animation: 
@@ -167,7 +169,7 @@ body {
 }
 @keyframes typing {
   from { width: 0 }
-  to { width: 90% }
+  to { width: 92% }
 }
 @keyframes blink {
   from { border-color: transparent }

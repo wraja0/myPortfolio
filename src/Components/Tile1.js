@@ -6,7 +6,7 @@ const Tile1 = ()=> {
             <h1 className='home-title'>I'm a</h1>
             <div className='container'> 
               <div className='home-title typed-out typer1'>
-                Web Developer
+                Full Stack Web Developer
               </div>
             </div>
             <br />
