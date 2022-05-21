@@ -147,11 +147,23 @@ body {
     white-space: nowrap;
     font-size: 2rem;
     font-weight: 600;
-    width: 0;
+    width: 0;      
+}
+.typer1 {
     animation: 
-      typing 1s steps(20,end) forwards,
-      blink .8s infinite;
-      
+    typing 1s steps(20,end) forwards;
+}
+.typer2 {
+    animation: 
+        typing 1s steps(20,end) forwards;
+        animation-delay: 1s
+        /* blink .8s infinite */
+}
+.typer3 {
+    animation: 
+        typing 1s steps(20,end) forwards;
+        animation-delay: 2s
+        /* blink .8s infinite */
 }
 @keyframes typing {
   from { width: 0 }

@@ -5,19 +5,19 @@ const Tile1 = ()=> {
         <div>
             <h1 className='home-title'>I'm a</h1>
             <div className='container'> 
-              <div className='home-title typed-out'>
+              <div className='home-title typed-out typer1'>
                 Web Developer
               </div>
             </div>
             <br />
             <div className='container'> 
-              <div className='home-title typed-out'>
+              <div className='home-title typed-out typer2'>
                 Web Developer
               </div>
             </div>
             <br />
             <div className='container'> 
-              <div className='home-title typed-out'>
+              <div className='home-title typed-out typer3'>
                 Web Developer
               </div>
             </div>
