@@ -92,14 +92,14 @@ button:hover .circle {
   width: 100%;
 }
 button.learn-more .circle:hover {
-  border-color: #0af5e5;
+  border-color: #61FBFB;
 }
 button:hover .circle .icon.arrow {
-  background: #0af5e5;
+  background: #61FBFB;
   transform: translate(1rem, 0);
 }
 button:hover .button-text {
-  color: #0af5e5;
+  color: #61FBFB;
 }
 
 @supports (display: grid) {
@@ -146,7 +146,7 @@ body {
   }
   .typed-out{
     overflow: hidden;
-    border-right: .05em solid #0af5e5;
+    border-right: .05em solid #61FBFB;
     white-space: nowrap;
     font-size: 2rem;
     font-weight: 600;
@@ -180,5 +180,5 @@ body {
 }
 @keyframes blink {
   from { border-color: transparent }
-  to { border-color: #0af5e5; }
+  to { border-color: #61FBFB; }
 }
