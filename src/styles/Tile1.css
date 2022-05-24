@@ -102,13 +102,13 @@ button:hover .button-text {
   color: #61FBFB;
 }
 
-/* @supports (display: grid) {
+@supports (display: grid) {
 body {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 0.625rem;
   grid-template-areas: ". main main ." ". main main .";
-} */
+}
 
 #container {
     grid-area: main;
