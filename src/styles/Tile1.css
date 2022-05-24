@@ -174,11 +174,11 @@ body {
     animation-delay: 2s;
     margin-left: 5.2vw;
 }
-@keyframes typing {
+/* @keyframes typing {
   from { width: 0 }
   to { width: 100% }
 }
 @keyframes blink {
   from { border-color: transparent }
   to { border-color: #61FBFB; }
-}
+} */
