@@ -5,7 +5,9 @@
     overflow-y:scroll;
     -ms-overflow-style: none;  
     scrollbar-width: none;  
-    border: solid;
+    border-right: solid;
+    border-left: solid;
+    border-width: 2px;
     margin-left: 17.5vw;
     background: url(https://i.imgur.com/ISzYWxr.jpg);
     background-size: cover;
